@@ -13,13 +13,13 @@ Every day, we embrace new technologies and methodologies to ensure we remain at 
 
 - Languages: Javascript, Typescript, Python, PHP, C/C++, Rust, Solidity.
 - Databases: MySQL, Postgresql, MongoDB, SQLlite.
-- Frameworks/Libraries: React.js, Vue.js, Angular.js, Electron.js, Node.js, Web3.js, D3.js, Laravel, Django, Flask, WebSocket, WebRTC.
+- Frameworks/Libraries: React.js, Next.js, Vue.js, Angular.js, Electron.js, Nest.js, Node.js, Web3.js, D3.js, Laravel, Django, Flask, WebSocket, WebRTC.
 - CMS: Magento, WordPress, Shopify, CS cart, X cart, Bigcommerce, Prestashop, Woocomerce.
 - ERP/CRM: Salesforce, D365, Odoo, Zoho CRM, etc.
 - Mobile Application Development: React Native, Flutter, Android Kotlin, iOS Swift.
-- Cloud Platforms: AWS, Google Cloud, Heroku, DigitalOcean, GoDaddy, etc.
+- Cloud Platforms: Supabase, Vercel, Firebase, AWS, Google Cloud, Heroku, DigitalOcean, GoDaddy, etc.
 - Web3 Technologies: Solidity, Truffle, Rust, MetaMask, Web3js, Ethereum, Ganache, Remix.
-- Payment Integration: Stripe, Paypal, etc.
+- Payment Integration: Stripe, Paypal, Paystack, etc.
 - Testing: Selenium, Enzyme, Jest, Mocha, Chai, etc.
 
 
