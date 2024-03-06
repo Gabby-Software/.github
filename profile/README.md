@@ -51,4 +51,4 @@ Our team is committed to continuous learning and improvement, staying up-to-date
 
 If you're looking for a reliable and experienced software development partner, look no further than Gabby Software. Contact us today to discuss your project requirements and see how we can help you achieve your goals.
 
-Please let me know if you need further assistance! hello@gabbysoftware.com 
+Please let me know if you need further assistance! hello@gabbysoftware.com.
